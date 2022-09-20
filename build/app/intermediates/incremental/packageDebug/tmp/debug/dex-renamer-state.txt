@@ -1,0 +1,4 @@
+#Mon Sep 19 22:11:14 AMT 2022
+base.0=/mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

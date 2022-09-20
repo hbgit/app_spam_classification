@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+application
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml:3:4-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /home/hbdron3/.gradle/caches/transforms-3/76f6586c9db9a07fedc2143b79b91ba4/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/hbdron3/.gradle/caches/transforms-3/76f6586c9db9a07fedc2143b79b91ba4/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hbdron3/.gradle/caches/transforms-3/4bfcd66ccfcf96e71ad3b8bbc2d4845e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hbdron3/.gradle/caches/transforms-3/4bfcd66ccfcf96e71ad3b8bbc2d4845e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/hbdron3/.gradle/caches/transforms-3/76f6586c9db9a07fedc2143b79b91ba4/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/6adb3f136a3a3b01e43a1373e60f4225/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/hbdron3/.gradle/caches/transforms-3/7c0c6e2b1af156fb82644190d78785b5/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/6794aa17596181fb34b7d6bdb0cea490/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/7e08a92bdae28fbe5a79733ed71334d3/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/4974e50f34ab7fe0cf8e6c3f7a9a9659/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/e68faaa9b4a8ef2bafa0890d2f5e91d7/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /home/hbdron3/.gradle/caches/transforms-3/76f6586c9db9a07fedc2143b79b91ba4/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/hbdron3/.gradle/caches/transforms-3/8494a2fd4d5260e1585ab0798f3c86da/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/c74555e63eb12917a9e6b5d3d02b1759/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hbdron3/.gradle/caches/transforms-3/bb60e0fc61dc0f21016363b0b174f80f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hbdron3/.gradle/caches/transforms-3/6d7e09141609eec6d5f9d68765105974/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/b19e712a3d925e8daf7ec717b8e4fa15/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hbdron3/.gradle/caches/transforms-3/601df29d341e94db6c6223299e0b70b7/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hbdron3/.gradle/caches/transforms-3/4bfcd66ccfcf96e71ad3b8bbc2d4845e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hbdron3/.gradle/caches/transforms-3/f72fc6d857c4110e94fba33c1e8cc092/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/hbdron3/.gradle/caches/transforms-3/94da7012d23fed1f60cd79dd9db00503/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml:2:5-44
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/6adb3f136a3a3b01e43a1373e60f4225/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/6adb3f136a3a3b01e43a1373e60f4225/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/hbdron3/.gradle/caches/transforms-3/7c0c6e2b1af156fb82644190d78785b5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/hbdron3/.gradle/caches/transforms-3/7c0c6e2b1af156fb82644190d78785b5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/6794aa17596181fb34b7d6bdb0cea490/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/6794aa17596181fb34b7d6bdb0cea490/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/7e08a92bdae28fbe5a79733ed71334d3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/7e08a92bdae28fbe5a79733ed71334d3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/4974e50f34ab7fe0cf8e6c3f7a9a9659/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/4974e50f34ab7fe0cf8e6c3f7a9a9659/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/e68faaa9b4a8ef2bafa0890d2f5e91d7/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/e68faaa9b4a8ef2bafa0890d2f5e91d7/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /home/hbdron3/.gradle/caches/transforms-3/76f6586c9db9a07fedc2143b79b91ba4/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/hbdron3/.gradle/caches/transforms-3/76f6586c9db9a07fedc2143b79b91ba4/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/hbdron3/.gradle/caches/transforms-3/8494a2fd4d5260e1585ab0798f3c86da/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/hbdron3/.gradle/caches/transforms-3/8494a2fd4d5260e1585ab0798f3c86da/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/c74555e63eb12917a9e6b5d3d02b1759/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/c74555e63eb12917a9e6b5d3d02b1759/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hbdron3/.gradle/caches/transforms-3/bb60e0fc61dc0f21016363b0b174f80f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hbdron3/.gradle/caches/transforms-3/bb60e0fc61dc0f21016363b0b174f80f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hbdron3/.gradle/caches/transforms-3/6d7e09141609eec6d5f9d68765105974/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hbdron3/.gradle/caches/transforms-3/6d7e09141609eec6d5f9d68765105974/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/b19e712a3d925e8daf7ec717b8e4fa15/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/hbdron3/.gradle/caches/transforms-3/b19e712a3d925e8daf7ec717b8e4fa15/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hbdron3/.gradle/caches/transforms-3/601df29d341e94db6c6223299e0b70b7/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hbdron3/.gradle/caches/transforms-3/601df29d341e94db6c6223299e0b70b7/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hbdron3/.gradle/caches/transforms-3/4bfcd66ccfcf96e71ad3b8bbc2d4845e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hbdron3/.gradle/caches/transforms-3/4bfcd66ccfcf96e71ad3b8bbc2d4845e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hbdron3/.gradle/caches/transforms-3/f72fc6d857c4110e94fba33c1e8cc092/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hbdron3/.gradle/caches/transforms-3/f72fc6d857c4110e94fba33c1e8cc092/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/hbdron3/.gradle/caches/transforms-3/94da7012d23fed1f60cd79dd9db00503/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/hbdron3/.gradle/caches/transforms-3/94da7012d23fed1f60cd79dd9db00503/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml
+INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /mnt/3782eb5d-a72d-4000-976d-06fd24dbe592/Documents/Dev_Projects/APPs/app_spam_classification/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/hbdron3/.gradle/caches/transforms-3/4361bf4b044702b2623d1fc0da4b53e5/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
