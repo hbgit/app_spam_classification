@@ -160,7 +160,17 @@ class _TFServingDemoState extends State<TFServingDemo> {
       // For iOS emulator, desktop and web platforms
       _server = '127.0.0.1';
     }
-    // TODO: build _vocabMap if empty
+    // build _vocabMap if empty
+    if (_vocabMap.isEmpty) {
+      final vocabFileString = await rootBundle.loadString(vocabFile);
+      final lines = vocabFileString.split('\n');
+      for (final l in lines) {
+        if (l != "") {
+          var wordAndIndex = l.split(' ');
+          (_vocabMap)[wordAndIndex[0]] = int.parse(wordAndIndex[1]);
+        }
+      }
+    }
 
     // TODO: tokenize the input sentence.
 
