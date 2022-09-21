@@ -173,6 +173,24 @@ class _TFServingDemoState extends State<TFServingDemo> {
     }
 
     // TODO: tokenize the input sentence.
+    final inputWords = _inputSentenceController.text
+        .toLowerCase()
+        .replaceAll(RegExp("[^a-z]"), '')
+        .split(' ');
+    // Initialize with padding token.
+    _tokenIndices = List.filled(maxSentenceLength, 0);
+    var i = 0;
+    for (final w in inputWords) {
+      if ((_vocabMap).containsKey(w)) {
+        _tokenIndices[i] = (_vocabMap)[w]!;
+        i++;
+      }
+
+      // Truncate the string if longer than maxSentenceLength.
+      if (i >= maxSentenceLength - 1) {
+        break;
+      }
+    }
 
     if (_connectionMode == ConnectionModeType.rest) {
       // TODO: create and send the REST request
